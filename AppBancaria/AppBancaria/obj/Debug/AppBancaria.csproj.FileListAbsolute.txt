@@ -1,0 +1,7 @@
+F:\Proyectos C#\AppBancaria\AppBancaria\obj\Debug\AppBancaria.csproj.AssemblyReference.cache
+F:\Proyectos C#\AppBancaria\AppBancaria\obj\Debug\AppBancaria.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\AppBancaria\AppBancaria\bin\Debug\AppBancaria.exe.config
+F:\Proyectos C#\AppBancaria\AppBancaria\bin\Debug\AppBancaria.exe
+F:\Proyectos C#\AppBancaria\AppBancaria\bin\Debug\AppBancaria.pdb
+F:\Proyectos C#\AppBancaria\AppBancaria\obj\Debug\AppBancaria.exe
+F:\Proyectos C#\AppBancaria\AppBancaria\obj\Debug\AppBancaria.pdb

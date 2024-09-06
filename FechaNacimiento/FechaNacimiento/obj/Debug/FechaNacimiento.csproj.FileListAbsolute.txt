@@ -1,0 +1,7 @@
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.exe.config
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.exe
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\bin\Debug\FechaNacimiento.pdb
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.csproj.AssemblyReference.cache
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.exe
+F:\Proyectos C#\FechaNacimiento\FechaNacimiento\obj\Debug\FechaNacimiento.pdb

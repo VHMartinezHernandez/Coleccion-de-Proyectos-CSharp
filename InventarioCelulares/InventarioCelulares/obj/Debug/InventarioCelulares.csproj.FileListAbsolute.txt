@@ -1,0 +1,7 @@
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\bin\Debug\InventarioCelulares.exe.config
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\bin\Debug\InventarioCelulares.exe
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\bin\Debug\InventarioCelulares.pdb
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\obj\Debug\InventarioCelulares.csproj.AssemblyReference.cache
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\obj\Debug\InventarioCelulares.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\obj\Debug\InventarioCelulares.exe
+F:\Proyectos C#\InventarioCelulares\InventarioCelulares\obj\Debug\InventarioCelulares.pdb

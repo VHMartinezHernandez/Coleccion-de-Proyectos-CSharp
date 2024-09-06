@@ -1,0 +1,7 @@
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\bin\Debug\AreasFigurasGeometricas.exe.config
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\bin\Debug\AreasFigurasGeometricas.exe
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\bin\Debug\AreasFigurasGeometricas.pdb
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\obj\Debug\AreasFigurasGeometricas.csproj.AssemblyReference.cache
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\obj\Debug\AreasFigurasGeometricas.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\obj\Debug\AreasFigurasGeometricas.exe
+F:\Proyectos C#\AreasFigurasGeometricas\AreasFigurasGeometricas\obj\Debug\AreasFigurasGeometricas.pdb

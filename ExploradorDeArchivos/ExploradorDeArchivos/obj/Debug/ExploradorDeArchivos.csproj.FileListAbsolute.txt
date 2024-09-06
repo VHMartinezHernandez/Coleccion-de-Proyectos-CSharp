@@ -1,0 +1,7 @@
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe.config
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.exe
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\bin\Debug\ExploradorDeArchivos.pdb
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.AssemblyReference.cache
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.exe
+F:\Proyectos C#\ExploradorDeArchivos\ExploradorDeArchivos\obj\Debug\ExploradorDeArchivos.pdb

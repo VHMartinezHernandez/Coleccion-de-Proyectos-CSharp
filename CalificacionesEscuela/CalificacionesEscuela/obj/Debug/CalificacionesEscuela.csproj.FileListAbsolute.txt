@@ -1,0 +1,7 @@
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\bin\Debug\CalificacionesEscuela.exe.config
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\bin\Debug\CalificacionesEscuela.exe
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\bin\Debug\CalificacionesEscuela.pdb
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\obj\Debug\CalificacionesEscuela.csproj.AssemblyReference.cache
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\obj\Debug\CalificacionesEscuela.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\obj\Debug\CalificacionesEscuela.exe
+F:\Proyectos C#\CalificacionesEscuela\CalificacionesEscuela\obj\Debug\CalificacionesEscuela.pdb

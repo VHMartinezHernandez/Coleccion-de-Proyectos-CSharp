@@ -1,0 +1,7 @@
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.exe.config
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.exe
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\bin\Debug\CuentaBancaria.pdb
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.csproj.AssemblyReference.cache
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.exe
+F:\Proyectos C#\CuentaBancaria\CuentaBancaria\obj\Debug\CuentaBancaria.pdb
